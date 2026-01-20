@@ -1,7 +1,10 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-
+http://epg.51zmt.top:8000/e.xml
+https://e.erw.cc/e.xml
+https://raw.githubusercontent.com/fanmingming/live/main/e.xml
+https://assets.livednow.com/epg.xml
 
 
 
